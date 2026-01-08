@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "character-models"
+		},
+		{
+			"path": "misc"
+		},
+		{
+			"path": "world-enviroments"
+		}
+	],
+	"settings": {
+		"claudeCodeChat.permissions.yoloMode": true
+	}
+}

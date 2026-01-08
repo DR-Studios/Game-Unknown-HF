@@ -1,0 +1,117 @@
+# Game-Uknown Developers Script Compodieum.md
+
+# note from dave: this is where im at with copilot in my msedge browser.:
+
+
+
+
+Today
+You said
+Tab icon
+DR-Studios/Game-Unknown
+github.com
+can u make me with a list of the files i have here on my repo (and if possible a clickable link to each file)
+Copilot said
+Your GitHub repo Game‑Unknown is currently empty — there are no files listed in the repository according to the page content I can see
+github.com
+.
+
+📂 Current Repository Contents
+No files yet  
+GitHub is prompting you to “Create a README, LICENSE, .gitignore, or upload files” because the repo has no committed content
+github.com
+.
+
+🔗 What you can do next
+Once you add files (README.md, scripts, assets, etc.), I can generate a clean, clickable list of every file with direct links.
+
+If you want, I can also help you:
+
+Create a starter README.md
+
+Set up a clean folder structure for your game engine
+
+Add initial files via GitHub or your local machine
+
+Just tell me what direction you want to take.
+
+github.com
+
+DR-Studios/Game-Unknown
+
+
+Show all
+
+
+
+
+
+You said
+Tab icon
+README.md · kirikir13/DR_Studios at main
+huggingface.co
+my bad this repo
+Copilot said
+Your open tab shows the DR_Studios Space on Hugging Face, and based on the page content I can access, the only file currently visible is:
+
+📂 Files in This Repo (from the open tab)
+File	Link
+README.md	Open README.md
+Source: 
+huggingface.co
+
+Right now, that’s the only file the tab exposes. If you want, I can help you generate a full clickable file index once you open the “Files” tab or share the repo URL where all files are stored.
+
+If this is the wrong repo again, just open the correct tab and say “this one” — I’ll read it instantly.
+
+huggingface.co
+
+README.md · kirikir13/DR_Studios at main
+
+
+Show all
+
+
+
+
+
+📂 DR-Studios Game-Unknown— Full File Index:
+
+🔧 Config & Environment
+
+.gitattributes 
+.gitignore 
+.env.local (Reference only)
+metadata.json (old needs re-done)
+package.json (Reference only)
+tsconfig.json (Reference only)
+vite.config.ts  (Reference only) 
+
+🧠 Python / App Logic:
+app.py  (Actual start page)
+
+3dmain.py  (Reference only)
+
+🌐 Frontend / UI:
+new index.html (actual Entry Point)
+
+index.html (Reference only)
+index.tsx  (Reference only I think)
+
+📝 Docs:
+(worry about later)
+
+🖼️ Images(Skybox):
+SB3.png 
+
+🗿 3D Assets (GLB):
+Dragon1.glb 
+abandoned_city.glb 
+abandoned_warehouse 
+greek city.glb 
+male.glb 
+
+
+
+
+

@@ -3,12 +3,11 @@ title: Game-Unknown
 emoji: 🎮
 colorFrom: green
 colorTo: blue
-sdk: Streamlit
+sdk: gradio
 sdk_version: "3.50.2"
 app_file: app.py
-pinned: true
+pinned: false
 ---
-
 
 
 
